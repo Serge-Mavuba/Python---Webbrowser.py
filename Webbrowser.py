@@ -1,9 +1,6 @@
-import webbrowser
-# allow to open webbrowsers via our code
-import time
-# will delay the loop with the sleep function
-import random
-# allow the desired output to run randomly 
+import webbrowser # allow to open webbrowsers via our code
+import time # will delay the loop with the sleep function
+import random # allow the desired output to run randomly 
 
 # create a while loop that will consistantly run until we kill it via the terminal ("Ctrl + C")
 while True: 
